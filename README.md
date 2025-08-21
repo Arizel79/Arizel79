@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arizel79
 - 👀 I’m Python coder
 - 🌱 I’m currently learning Java
-- 📫 My telegram: [https://t.me/Arizel79](here)
+- 📫 [My telegram](https://t.me/Arizel79)
 
 - ✨ My stack:
    - Django
